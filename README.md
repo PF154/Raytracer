@@ -9,7 +9,18 @@ Below is a sample image created with this raytracer—a space-filling model of g
 
 # Usage
 
-Files should be compiled with gcc/g++. Custom scene geometry files can be written in the format:
+Files should be compiled with gcc/g++. 
+
+For C++:
+```
+g++ Color.cpp Light.cpp Main.cpp Plane.cpp Sphere.cpp Vec.cpp
+```
+For C:
+```
+gcc rt.c light.c plane.c sphere.c vp.c -lm
+```
+
+Custom scene geometry files can be written in the format:
 
 ```
 Geometry type: s/p/l (char)
