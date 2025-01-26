@@ -2,6 +2,11 @@
 
 This project contains two implementations of a raytraced image generator made for CSCI 312 - Principles of Programming with Dr. Timothy Davis. Each program reads a file named "scene1.txt" to get information about scene geometry. They can handle spheres, planes, checkered planes, and a single light source.
 
+Below is a sample image created with this raytracer—a space-filling model of glucose.
+
+
+![An image of a space-filling model of glucose, rendered with this raytracer](/glucose.png)
+
 # Usage
 
 Files should be compiled with gcc/g++. Custom scene geometry files can be written in the format:
