@@ -34,4 +34,4 @@ Examples can be seen in c/scene1.txt
 
 # Lessons Learned
 
-This project was great practice in many fundamental C++ features, but what I took away from it the most was the experience I gained using virtual methods and pure virtual classes. These sorts of object-oriented features have been quintessential in my most recent project—a custom programming language interpreter—which I will add soon to my portfolio.
+This project was great practice in many fundamental C++ features, but what I took away from it the most was the experience I gained using virtual methods and pure virtual classes.
